@@ -4,15 +4,15 @@
 
 ### Lesson 1: How does the internet work?
 
-Watch this: https://youtu.be/7_LPdttKXPc
+Watch ['How the Internet Works in 5 Minutes'](https://youtu.be/7_LPdttKXPc).
 
 Record an audio message of yourself explaining the internet
 
 ### Lesson 2: What _is_ a web developer?
 
-https://www.codecademy.com/resources/blog/what-is-web-development/
+Read ['What is Web Development?'](https://www.codecademy.com/resources/blog/what-is-web-development/).
 
-Have a look at this for all the things that are on your roadmap: https://roadmap.sh/frontend
+Have a skim of [Frontend Roadmap](https://roadmap.sh/frontend) to see all the things that are on your roadmap. Exciting!
 
 ## Module 2: HTML
 
